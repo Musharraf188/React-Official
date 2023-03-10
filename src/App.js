@@ -1,10 +1,12 @@
 
 import './App.css';
 import Chapter1 from './components/Chapter1';
+import Chapter2 from './components/Chapter2';
 
 function App() {
-<div>
+  return<div>
 <Chapter1 />
+<Chapter2 />
 </div>
 }
 
